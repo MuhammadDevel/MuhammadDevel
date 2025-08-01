@@ -1,33 +1,43 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Pakistan</h3>
+<h3 align="center">A passionate Frontend Web Developer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&size=24&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;MERN+Stack+Learner;Passionate+Self+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&size=24&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Tailwind+Lover;Framer+Motion+Explorer;Self+Taught+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
 - 🔭 I’m currently working on **React.js Projects**
 - 🌱 I’m currently learning **Redux Toolkit, Next.js, MongoDB**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind, Framer Motion**
 - 📫 How to reach me: **muhammad.devel9@gmail.com**
-- 🎯 Goals: **Become a AI Engineer & Software Engineer**
+- 🎯 Goals: **Become an AI Engineer & Software Engineer**
 
 ---
 
 ### 🛠️ Languages & Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,github,git,nodejs,mongodb,express,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
+
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadDevel&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadDevel&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
-
 
 ---
 
