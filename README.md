@@ -1,64 +1,86 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
-<h3 align="center">A passionate Frontend Web Developer from Pakistan</h3>
+<h3 align="center">Aspiring Data Analyst | AI Student | Turning Data into Actionable Insights 📊</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&size=24&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Tailwind+Lover;Framer+Motion+Explorer;Self+Taught+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3B82F6&size=24&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Artificial+Intelligence+Student;Python+%7C+SQL+%7C+Excel;Data+Visualization+Enthusiast;Always+Learning+Always+Building" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on **React.js Projects**
-- 🌱 I’m currently learning **Redux Toolkit, Next.js, MongoDB**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind, Framer Motion**
-- 📫 How to reach me: **muhammad.devel9@gmail.com**
-- 🎯 Goals: **Become an AI Engineer & Software Engineer**
+## 👨‍💻 About Me
+
+I'm Muhammad, an Artificial Intelligence student passionate about transforming raw data into meaningful insights. I enjoy cleaning, analyzing, and visualizing data to solve real-world problems and support data-driven decision-making.
+
+Currently, I'm building strong foundations in Data Analytics through hands-on projects while continuously expanding my knowledge of AI and Machine Learning.
+
+- 📊 Currently working on **Data Analysis Projects**
+- 🌱 Learning **Power BI, Machine Learning & Advanced SQL**
+- 💬 Ask me about **Python, Pandas, NumPy, SQL, Excel, Matplotlib, Seaborn & Plotly**
+- 🎯 Goal: **Become a Data Analyst and grow into an AI/ML Engineer**
+- 📫 Reach me at **muhammad.devel9@gmail.com**
 
 ---
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-</p>
-
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadDevel&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadDevel&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="45" alt="Jupyter Notebook"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ---
 
-### 😎 Fun Facts About Me
+## 📂 Featured Projects
 
-- 🌙 I’m like the moon — silent but always coding in the dark.
-- 🧠 I learn things by doing, breaking, and rebuilding 💻
-- 📽️ I love cloning real-world websites
-- 🤯 I can stare at a bug for 2 hours and fix it in 2 seconds
-- 🕶️ Dark mode is not a preference — it’s a lifestyle
-- 🐢 Typing speed: 40+ WPM, but accuracy like a sniper 🎯
-- 💡 I believe in: Learn fast. Fail fast. Rise faster 🚀
+📊 **Netflix Data Analysis**
+- Cleaned and analyzed Netflix Movies & TV Shows dataset.
+- Explored content trends, ratings, countries, genres, and release patterns.
+- Created visualizations using Matplotlib and Seaborn.
 
 ---
 
-### 🎯 What’s Next?
+## 🌱 Currently Learning
 
-- 🚀 Build and deploy a full-stack MERN project
-- 📚 Learn TypeScript & Next.js for production-level apps
-- 🔄 Master Redux Toolkit and create dynamic dashboards
-- 💼 Start applying for freelance or internship opportunities
-- 👨‍💻 Contribute to open-source projects on GitHub
-- 📈 Explore crypto & forex trading — not just dev, but smart dev 💹
-- 🎥 Make coding content or tutorials (maybe start a YouTube channel?)
+- Advanced SQL
+- Power BI & DAX
+- Statistics for Data Analytics
+- Machine Learning
+- Data Storytelling & Dashboard Design
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Build 10+ Data Analytics Projects
+- 📊 Create Interactive Power BI Dashboards
+- 🏆 Land a Data Analyst Internship
+- 🤖 Learn Machine Learning Fundamentals
+- 🌍 Contribute to Open Source
+- 🚀 Build a Strong Data Analytics Portfolio
+
+---
+
+## 💡 Fun Facts
+
+- 📊 I enjoy turning messy datasets into meaningful insights.
+- 🧩 I believe every dataset tells a story.
+- 🚀 I learn by building real-world projects.
+- 📈 Curious about AI, Data Analytics, and Machine Learning.
+- 🌙 Most productive when everyone else is asleep.
+- Typing speed: 40+ WPM, but accuracy like a sniper 🎯
+
+---
+
+<p align="center">
+  <i>"Without data, you're just another person with an opinion."</i>
+</p>
